@@ -1,5 +1,4 @@
 # Covid19CV
-# FireChat `[DEPRECATED]`
 <img  src="./covid.png"/>
 
 ## Description
