@@ -13,6 +13,6 @@ Created on 2021.
 
 ## Knowledge obtained
 * Consume API REST.
-* Handle JSON or CSV.
+* SQLite.
 * Implementation Broadcast receiver for the connectivity states.
 * Improve in the design.
