@@ -1,6 +1,6 @@
 # Covid19CV
 # FireChat `[DEPRECATED]`
-<img  src="./firechat.jpg"/>
+<img  src="./covid.png"/>
 
 ## Description
 Covid Tracker Application on Valencia Community.
