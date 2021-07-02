@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">COVID-19 CV</string>
+    <string name="url_all_resources_covid">https://dadesobertes.gva.es/api/3/action/package_show?id=38e6d3ac-fd77-413e-be72-aed7fa6f13c2</string>
+
+
+    <!-- MUNICIPALITY ACTIVITY -->
+    <string name="option_search">Search</string>
+    <string name="option_openWebsite">Open GVA website</string>
+    <string name="option_orderBy">Order by…</string>
+    <string name="option_filterMunicipality">Municipalities</string>
+    <string name="option_filterTestPCR">Tests PCR</string>
+    <string name="option_filterAcumulativeIncidence">Acumulative Incidence</string>
+
+
+    <string name="municipality">Municipality</string>
+    <string name="testsPCR">Tests PCR</string>
+    <string name="acumulativeIncidence">Acumulative Incidence</string>
+
+    <string name="hint_search">Municipality to search for</string>
+    <string name="url_website_gva">http://coronavirus.san.gva.es/</string>
+
+    <string name="ordered_by">Ordered by</string>
+    <string name="ordered_by_municipalities">Ordered by Municipalities</string>
+    <string name="ordered_by_testsPCR">Ordered by Tests PCR</string>
+    <string name="ordered_by_acumulativeIncidence">Ordered by Acumulative Incidence</string>
+
+    <string name="filter_order_asc">Ascendent</string>
+    <string name="filter_order_desc">Descendent</string>
+
+    <string name="location_GPS_disabled">GPS disabled</string>
+    <string name="location_current">Current location:</string>
+    <string name="location_searching">Searching current location…</string>
+    <string name="location_automatic_location_disabled">Automatic location disabled</string>
+    <string name="bttn_automatic_location_enabled">CLICK TO ENABLE</string>
+
+    <string name="no_internet_connection">There isn\'t Internet connection</string>
+    <string name="obtained_json_updated">Obtained the data more updated.</string>
+
+    <!-- DETAILS MUNICIPALITY ACTIVITY -->
+    <string name="icon_title_municipality">MUNICIPALITY:</string>
+    <string name="option_seeOnMap">See municipality on map</string>
+    <string name="title_information">INFORMATION</string>
+    <string name="title_before14days">BEFORE 14 DAYS</string>
+    <string name="title_after14days">AFTER 14 DAYS</string>
+    <string name="title_mortality">MORTALITY</string>
+    <string name="hint_ID">ID</string>
+    <string name="hint_code">Code</string>
+
+    <string name="hint_PCR">PCR</string>
+    <string name="hint_AcumulativeIndicence">Total</string>
+
+    <string name="hint_deaths">Deaths</string>
+    <string name="hint_deathRate">Rate</string>
+
+    <string name="button_showReports">SHOW REPORTS</string>
+
+
+    <!-- DETAILS REPORT ACTIVITY -->
+    <string name="title_update_report">UPDATE REPORT</string>
+    <string name="title_create_report">CREATE NEW REPORT</string>
+    <string name="hint_municipality">Municipality</string>
+    <string name="title_startdate">Symptom Start Date</string>
+    <string name="title_symptoms">Symptoms</string>
+    <string name="title_closecontact">¿Close Contact?</string>
+    <string name="hint_num_symptoms">Num Symptoms</string>
+    <string name="hint_stardate">Start Date</string>
+
+    <string name="symptom_fever">Fever or chills</string>
+    <string name="symptom_cough">Cough</string>
+    <string name="symptom_difficulty_breathing">Difficulty breathing</string>
+    <string name="symptom_fatigue">Fatigue</string>
+    <string name="symptom_body_aches">Muscle or body aches</string>
+    <string name="symptom_headache">Headache</string>
+    <string name="symptom_loss_taste_or_smell">New loss of taste or smell</string>
+    <string name="symptom_sore_throat">Sore throat</string>
+    <string name="symptom_congestion_nose">Congestion or runny nose</string>
+    <string name="symptom_nausea">Nausea or vomiting</string>
+    <string name="symptom_diarrhea">Diarrhea</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string-array name="closecontact_array">
+        <item>@string/no</item>
+        <item>@string/yes</item>
+    </string-array>
+
+    <string name="option_create_new_report">Create new report</string>
+    <string name="option_update_report">Update the report</string>
+    <string name="option_delete_report">Delete the report</string>
+
+    <string name="empty_list_reports">At present there aren\'t reports on this municipality.</string>
+
+    <string name="must_fill_startdate">Symptom start date is required</string>
+    <string name="must_fill_municipality">Municipality name is required</string>
+    <string name="must_exist_municipality">Municipality not found. please check that it is well written. </string>
+
+    <string name="success_create_report">The report has been created.</string>
+    <string name="error_create_report">The report hasn\'t been created.</string>
+
+    <string name="success_delete_report">The report has been deleted.</string>
+    <string name="error_delete_report">The report hasn\'t been deleted.</string>
+
+    <string name="success_update_report">The report has been updated.</string>
+    <string name="error_update_report">The report hasn\'t been updated.</string>
+
+</resources>

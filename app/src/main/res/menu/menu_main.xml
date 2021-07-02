@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/menu_item_search"
+        android:title="@string/option_search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom"/>
+
+
+    <item android:id="@+id/menu_item_openWebsite"
+        android:title="@string/option_openWebsite" />
+
+
+    <item android:id="@+id/menu_item_chooseFilter"
+        android:title="@string/option_orderBy">
+        <menu>
+            <item android:id="@+id/menu_item_filterMunicipality"
+                android:title="@string/option_filterMunicipality"
+                android:icon="@drawable/municipality"
+                app:showAsAction="withText"/>
+            <item android:id="@+id/menu_item_filterTestPCR"
+                android:title="@string/option_filterTestPCR"
+                android:icon="@drawable/test_pcr"
+                app:showAsAction="withText"/>
+            <item android:id="@+id/menu_item_filterAcumulativeIncidence"
+                android:title="@string/option_filterAcumulativeIncidence"
+                android:icon="@drawable/issue"
+                app:showAsAction="withText"/>
+        </menu>
+    </item>
+</menu>

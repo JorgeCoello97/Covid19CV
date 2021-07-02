@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673ab7</color>
+    <color name="colorPrimaryLight">#9a67ea</color>
+    <color name="colorPrimaryDark">#320b86</color>
+    <color name="colorAccent">#263238</color>
+    <color name="colorAccentLight">#4f5b62</color>
+    <color name="colorAccentDark">#000a12</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="alphaTransparency">#80ffffff</color>
+    <color name="transparency">#00ffffff</color>
+
+    <color name="toolbar_filtro">#7020FF</color>
+    <color name="background_activities">#c5cae9</color>
+
+    <color name="low">#a3cd3b</color>
+    <color name="medium">#ffc916</color>
+    <color name="high">#ff4941</color>
+</resources>

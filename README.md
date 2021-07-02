@@ -1,2 +1,18 @@
 # Covid19CV
- Covid Tracker on Valencia Community
+# FireChat `[DEPRECATED]`
+<img  src="./firechat.jpg"/>
+
+## Description
+Covid Tracker Application on Valencia Community.
+
+Created on 2021.
+
+## Targets
+* Obtain last update from "Generalitat Valenciana" Database 
+* Help on the pandemic situation.   
+
+## Knowledge obtained
+* Consume API REST.
+* Handle JSON or CSV.
+* Implementation Broadcast receiver for the connectivity states.
+* Improve in the design.
